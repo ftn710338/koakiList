@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as t,a as c}from"./index.ead62fed.js";const n={},o={class:"w-screen h-screen"},r=c("iframe",{src:"https://ftn710338.github.io/candyCrush/",width:"100%",height:"100%"},null,-1),a=[r];function _(h,i){return t(),s("div",o,a)}const f=e(n,[["render",_]]);export{f as default};
